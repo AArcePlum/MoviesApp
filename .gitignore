@@ -1,0 +1,54 @@
+# ASP.NET Core
+
+# Objeto compilados
+obj/
+bin/
+
+# Archivos de respaldo
+*.swp
+*~
+*.bak
+
+# Archivos temporales
+*.tmp
+
+# Archivos de registro
+*.log
+
+# Directorio de dependencias NuGet
+/.nuget/
+/packages/
+
+# Archivos de usuario local
+*.user
+
+# Herramientas construidas
+/ToolBelt/
+
+# Archivos de salida generados
+/Dist/
+
+# Archivos de configuración local
+/appsettings.Development.json
+/appsettings.Production.json
+/appsettings.Staging.json
+/appsettings.json
+
+# Carpeta de almacenamiento de claves local
+/Secrets/
+
+# Archivos de respaldo de Visual Studio
+/.vs/
+
+# Archivos de caché de ReSharper
+/_ReSharper.*/
+
+# Características de navegadores generados por Visual Studio
+/ClientBin/
+
+# Especificar otros archivos o directorios que desees ignorar
+# ...
+
+# Ignorar todo en el directorio wwwroot, excepto el archivo README
+/wwwroot/*
+!/wwwroot/README.md

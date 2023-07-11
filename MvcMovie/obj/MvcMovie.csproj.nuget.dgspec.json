@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aarce\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Users\\aarce\\OneDrive\\Escritorio\\MoviesApp\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aarce\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Users\\aarce\\OneDrive\\Escritorio\\MoviesApp\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aarce\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\aarce\\OneDrive\\Escritorio\\MoviesApp\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\aarce\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\Users\\aarce\\OneDrive\\Escritorio\\MoviesApp\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\aarce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aarce\\source\\repos\\MvcMovie\\MvcMovie\\obj\\",
+        "outputPath": "C:\\Users\\aarce\\OneDrive\\Escritorio\\MoviesApp\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aarce\\AppData\\Roaming\\NuGet\\NuGet.Config",
