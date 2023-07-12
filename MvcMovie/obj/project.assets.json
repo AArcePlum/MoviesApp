@@ -11340,11 +11340,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aarce\\OneDrive\\Escritorio\\MoviesApp\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\aarce\\OneDrive\\Escritorio\\Plum\\Prueba\\MoviesApp\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\aarce\\OneDrive\\Escritorio\\MoviesApp\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\aarce\\OneDrive\\Escritorio\\Plum\\Prueba\\MoviesApp\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\aarce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aarce\\OneDrive\\Escritorio\\MoviesApp\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\aarce\\OneDrive\\Escritorio\\Plum\\Prueba\\MoviesApp\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aarce\\AppData\\Roaming\\NuGet\\NuGet.Config",

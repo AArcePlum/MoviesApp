@@ -52,3 +52,6 @@ bin/
 # Ignorar todo en el directorio wwwroot, excepto el archivo README
 /wwwroot/*
 !/wwwroot/README.md
+
+MvcMovie/obj/
+MvcMovie/bin/
